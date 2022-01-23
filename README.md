@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hosea1989
 - 👀 I’m interested in video games, anime, and good food. 
-- 🌱 I'm currently learning how to develop Java Programs and Electrma
-- 💞️ I’m looking to collaborate on anything involving Java and C++. 
+- 🌱 I'm currently learning how to develop Java Programs and Electromagnatism
+- 💞️ First goal is to develop multiple apps. 
 - 📫 How to reach me hoseadamien@yahoo.com. Also my IG is @Zamn.Zamien.2.0
 
 <!---
