@@ -1,10 +1,10 @@
 # Welcome to my GitHub!
 ### I am Damien Hosea and here's a little about myself...
-- 🏠 I grew up in Westmont, Los Angeles.
+- 🏠 I grew up Los Angeles.
 
 - 🎮 I love a good RPG like ⚔️ Final Fantasy, 🐱 Pokemon and 🏰 Zelda
 - 🛠️ I'm a 💻 Computer Science Major currently looking for work.
-- 👨‍💻 Languages: _Java_, _HTML_, _CSS_, _Javascript_,_C++_
+- 👨‍💻 Languages: _Java_, _HTML_, _CSS_, _Javascript_,_C++_, SWIFT
 - 
 
 - 📫 How to reach me ➡️ [hoseadamien@yahoo.com]
